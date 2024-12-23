@@ -1,0 +1,53 @@
+{
+  "YangiNashirlar": [
+    {
+      "id": "4",
+      "yozuvchi": "Xudoyberdi To'xtaboyev",
+      "img": "https://www.barakot.uz/image/get-image?imageName=Sariq%20devning%20o%27limi%20(yangi).jpg",
+      "name": "Sariq devni o'limi",
+      "pdf": "https://kitobsevar.uz/kxpv/xrpt_tve5vm8odlmvkneofa11ejfb0i5ajxy5i4z5fvjj8y6ic0yian9fyegynbyyzls8eg3k3cu11o9.pdf",
+      "title": "Ijtimoiy va shaxsiy muammolarni qalb va ruhiy dunyo orqali tahlil qiladi."
+    },
+    {
+      "id": "5",
+      "yozuvchi": "Avdulla Qahhor",
+      "img": "https://tovar.uz/images/company/444/tovar/110098/o_64d99250aecbb.jpg",
+      "name": "O'tmishdan ertaklar",
+      "pdf": "http://ilmiy.bmti.uz/blib/files/91/A.%20Qahhor%20-%20O%60tmishdan%20ertaklar.pdf",
+      "title": "She'riyat va hayot o'rtasidagi bog'liqlikni ko'rsatadi."
+    },
+
+    {
+      "id": "2",
+      "yozuvchi": "Abdulla Qodiriy",
+      "img": "https://i0.wp.com/library-tsul.uz/wp-content/uploads/2024/09/abdulla-qodiriy.-2022.jpg?fit=1036%2C1593&ssl=1",
+      "name": "Odamlar",
+      "pdf": "https://elib.tstu.uz/wp-content/uploads/2022/08/Abdulla-Qodiriy.pdf",
+      "title": "O'zbek adabiyotining klassik asari, shaxsiy va jamiyatdagi o'zgarishlar haqida hikoya qiladi."
+    },
+    {
+      "id": "3",
+      "yozuvchi": "Xudoyberdi To'xtaboyev",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCauflmtkamPVchMCZWAn9WByg5GTwI75G0A&s",
+      "name": "Sariq devni minib",
+      "pdf": "https://quvonch-books.uz/storage/uploads/files/sariq_devni_minib_roman.pdf",
+      "title": "Shoirning ijodiy yo'li va ichki dunyosidagi g'azabni o'rganadi."
+    },
+    {
+      "id": "11",
+      "yozuvchi": "Jyeyms Klir ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-myy-0S-182pGa_4DNHEL7xuWtjKpWTOOuA&s",
+      "name": "Atom odatlar",
+      "pdf": "https://namdu.uz/media/Books/pdf/2024/05/06/Namdu-Arm-3-Atom_odatlari.pdf",
+      "title": "Jyeyms Klir tomonidan yozilgan bu kitob, kichik odatlarning qanday qilib katta o'zgarishlarga olib kelishini tushuntiradi. "
+    },
+    {
+      "id": "12",
+      "yozuvchi": "Abdulla Qodiriy",
+      "img": "https://olcha.uz/image/600x600/products/4p9wLzxf7Q55wOgihMwH6aaFKoJZzztLu7fMy9e4dYBAtJV1aiXHiTKoraE5.jpg",
+      "name": "O'tkan kunlar",
+      "pdf": "https://arm.navoiy-uni.uz/wp-content/uploads/2019/04/utgan_kunlar_ziyouz_com.pdf",
+      "title": "Abdulla Qodiriy tomonidan yozilgan, O'zbek adabiyotining eng mashhur romanlaridan biri."
+    }
+  ]
+}
